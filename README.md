@@ -133,6 +133,43 @@
     </a>
 
 </p>
+</p>
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img alt="hajjari mohammed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=heisenberghj7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
+             title="🔥 Get streak stats for your profile at git.io/streak-stats"/>
+    </a>
+</p>
+
+## 📊 `My Github Stats` :
+
+<br/>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats">
+    <img alt="Hajjari Mohammed's Github Stats"
+         src="https://github-readme-stats.vercel.app/api?username=heisenberghj7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+</a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats">
+    <img alt="Hajjari Mohammed's Top Languages"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisenberghj7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<br/>
+
+<p>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
+    experience or skill level.
+</p>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Hajjari Mohammed's Activity Graph"
+                                                                               src="https://activity-graph.herokuapp.com/graph?username=heisenberghj7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+
+<br/>
+<br/>
+<p align="center">
+<img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hajjari-46507421b/)
 
   
  
