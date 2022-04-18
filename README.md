@@ -11,17 +11,17 @@
 
 ## 😎 `About me` :
 
-- 🔭 I’m currently working on **twitter sentiment analysis using NLP**
+- 🔭 I’m currently working on **Predicting House prices**
 
 - 🌱 I’m currently learning **Deep Learning, Machine learning & NLP**
 
 - 👨‍💻 All of my projects are available at → *working on* 👊
 
-- 📫 How to reach me → **labrijisaad@gmail.com**
+- 📫 How to reach me → **medhajjari7@gmail.com**
 
-- 📄 Here is my resume → **[Responsive Resume 🔥](https://labrijisaad.works/)**
+- 📄 Here is my resume → **[Responsive Resume 🔥]()**
 
-- ⚡ Fun fact **I like anime, gaming & japanese culture 🐉**
+- ⚡ Fun fact **I like football, swiming & jiu jitsu 🐉**
 
 ## 🙌 `Connect with me` :
 
