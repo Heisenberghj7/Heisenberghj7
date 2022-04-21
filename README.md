@@ -13,7 +13,17 @@
 
 - 📫 How to reach me → **medhajjari7@gmail.com**
 
-- ⚡ Fun fact **I like football, Reading, swiming & jiu jitsu 🐉**
+- ⚡ Fun fact **I like Traveling, Reading, swiming & jiu jitsu 🐉**
+
+<br>
+<h2 align="left">Github Stats</h2>
+<p>
+   
+![Heisenberghj9's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Heisenberghj9&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heisenberghj9&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/kobeerose/github-readme-stats)
+   
+</p>
+<br>
 
 ## 🙌 `Connect with me` :
 
@@ -30,7 +40,7 @@
      <a href="https://twitter.com/HeisenbergHj9" target="blank"><img align="center"
                                                                 alt="Heisenberghj9"
                                                                 height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
-
+</p>
 ## 🛠️ `Languages and Tools` :
 
 <p align="center">
