@@ -19,7 +19,7 @@
 
 - 📫 How to reach me → **medhajjari7@gmail.com**
 
-- 📄 Here is my resume → **[Responsive Resume 🔥]()**
+- 📄 Here is my resume → **[Responsive Resume 🔥](https://drive.google.com/file/d/1q5I_Vwt3eAnw_4i2kshPnVIneJ3ZilMD/view?usp=sharing)**
 
 - ⚡ Fun fact **I like football, swiming & jiu jitsu 🐉**
 
