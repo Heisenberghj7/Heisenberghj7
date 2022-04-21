@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Predicting House prices**
 
-- 🌱 I’m currently learning **Deep Learning, Machine learning **
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📄 Here is my resume → **[Resume](https://drive.google.com/file/d/1q5I_Vwt3eAnw_4i2kshPnVIneJ3ZilMD/view?usp=sharing)**
 
@@ -27,10 +27,6 @@
     <a href="https://web.facebook.com/heisenberg.hj7/" target="blank"><img align="center"
                                                                 alt="mohammed hajjari"
                                                                 height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/></a>
-    <a href="https://www.instagram.com/simo.hj7/" target="blank"><img align="center"
-                                                                   alt="simo.hj7"
-                                                                   height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
-</p>
 
 ## 🛠️ `Languages and Tools` :
 
