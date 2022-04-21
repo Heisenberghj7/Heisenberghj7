@@ -151,10 +151,10 @@
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Heisenberghj7's Activity Graph"
                                                                                src="https://activity-graph.herokuapp.com/graph?username=Heisenberghj7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 
-<br>
+<br/>
+<br/>
 <p align="center">
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 </p>
 <br>
-
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hajjari-46507421b/)
