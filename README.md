@@ -41,7 +41,31 @@
                                                                 height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
 </p>
 
-##🛠️ `Languages and Tools` :
+<br>
+<h2 align="left">Languages and Tools</h2>
+<ul>
+    <li>
+        <h3 align="left">Data Science:</h3>
+        <p>
+        <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        </a>
+        &emsp;
+        <a href="https://www.r-project.org/" target="_blank">
+        <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
+        </a>
+        &emsp;
+        <a href="https://www.tensorflow.org" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+        </a>
+        &emsp;
+        <a href="https://pytorch.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+        </a>
+        &emsp;
+        </p>
+    </li>
+</ul>
 
 <p align="center">
     <a href="https://angular.io" rel="noreferrer" target="_blank">
