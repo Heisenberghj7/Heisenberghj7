@@ -19,8 +19,8 @@
 <h2 align="left">Github Stats</h2>
 <p>
    
-![Heisenberghj9's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Heisenberghj9&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heisenberghj9&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/kobeerose/github-readme-stats)
+![Heisenberghj7's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Heisenberghj7&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heisenberghj7&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/Heisenberghj7/github-readme-stats)
    
 </p>
 <br>
