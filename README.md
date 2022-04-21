@@ -88,6 +88,5 @@
    
 </p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heisenberghj7&show_icons=true&locale=en&layout=compact" alt="Heisenberghj7" /></p>
 
       
