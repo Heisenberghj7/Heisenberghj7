@@ -62,6 +62,12 @@
         <a href="https://pytorch.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
         </a>
+        <a href="https://www.mysql.com/" rel="noreferrer" target="_blank">
+        <img alt="mysql"
+             height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> </a>
+        <a href="https://scikit-learn.org/" rel="noreferrer" target="_blank">
+        <img alt="scikit_learn" height="40"
+             src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> </a>
         &emsp;
         </p>
     </li>
@@ -117,9 +123,6 @@
     <a href="https://www.mongodb.com/" rel="noreferrer" target="_blank">
         <img alt="mongodb"
              height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> </a>
-    <a href="https://www.mysql.com/" rel="noreferrer" target="_blank">
-        <img alt="mysql"
-             height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> </a>
     <a href="https://www.oracle.com/" rel="noreferrer" target="_blank">
         <img alt="oracle"
              height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/> </a>
@@ -144,9 +147,6 @@
     <a href="https://www.scala-lang.org" rel="noreferrer" target="_blank">
         <img alt="scala" height="40"
              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="40"/> </a>
-    <a href="https://scikit-learn.org/" rel="noreferrer" target="_blank">
-        <img alt="scikit_learn" height="40"
-             src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> </a>
     <a href="https://seaborn.pydata.org/" rel="noreferrer" target="_blank">
         <img alt="seaborn" height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> </a>
     <a href="https://spring.io/" rel="noreferrer" target="_blank">
@@ -198,45 +198,4 @@
 
   
  
-            
-   
-
-
-
-
-
-
-   
-        
-
-
-   
-       
-
-
-
-
-
-  
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!---
-- 👋 Hi, I’m @Heisenberghj7
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning  data science
-- 💞️ I’m looking to collaborate on several projects
-Heisenberghj7/Heisenberghj7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+      
