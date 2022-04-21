@@ -4,19 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Heisenberghj7&label=Profile%20views&color=0e75b6&style=flat" alt="Heisenberghj7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Heisenberghj7" alt="Heisenberghj7" /></a> </p>
-## 😎 `About me` :
 
 - 🔭 I’m currently working on **Predicting House prices**
 
-- 🌱 I’m currently learning **Deep Learning, Machine learning & NLP**
+- 🌱 I’m currently learning **Deep Learning, Machine learning **
 
-- 👨‍💻 All of my projects are available at → *working on* 👊
+- 📄 Here is my resume → **[Resume](https://drive.google.com/file/d/1q5I_Vwt3eAnw_4i2kshPnVIneJ3ZilMD/view?usp=sharing)**
 
 - 📫 How to reach me → **medhajjari7@gmail.com**
 
-- 📄 Here is my resume → **[Responsive Resume 🔥](https://drive.google.com/file/d/1q5I_Vwt3eAnw_4i2kshPnVIneJ3ZilMD/view?usp=sharing)**
-
-- ⚡ Fun fact **I like football, swiming & jiu jitsu 🐉**
+- ⚡ Fun fact **I like football, Reading, swiming & jiu jitsu 🐉**
 
 ## 🙌 `Connect with me` :
 
