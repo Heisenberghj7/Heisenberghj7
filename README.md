@@ -27,6 +27,9 @@
     <a href="https://web.facebook.com/heisenberg.hj7/" target="blank"><img align="center"
                                                                 alt="mohammed hajjari"
                                                                 height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/></a>
+     <a href="https://twitter.com/HeisenbergHj9" target="blank"><img align="center"
+                                                                alt="Heisenberghj9"
+                                                                height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
 
 ## 🛠️ `Languages and Tools` :
 
