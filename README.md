@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📄 Here is my resume → **[Resume](https://drive.google.com/file/d/1-J1ZgnYX5FR61ZKotLWmYhL2yVo-XBta/view?usp=sharing)**
+- 📄 Here is my resume → **[Resume](https://drive.google.com/file/d/1b76W3p10HAgJEBJd7hXSNuipdk-JzG4a/view?usp=sharing)**
 
 - 📫 How to reach me → **medhajjari7@gmail.com**
 
