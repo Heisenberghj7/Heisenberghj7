@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
     I'm Mohammed HAJJARI</h1>
-<h3 align="center">A Data Engineering Student and MAchine Learning Enthusiast!</h3>
+<h3 align="center">A Data Engineering Student and a Machine Learning Enthusiast!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Heisenberghj7&label=Profile%20views&color=0e75b6&style=flat" alt="Heisenberghj7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Heisenberghj7" alt="Heisenberghj7" /></a> </p>
