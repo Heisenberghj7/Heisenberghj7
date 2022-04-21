@@ -1,12 +1,8 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74627083/155903528-100c07d0-ee13-4ba7-9e98-3584c4ac555b.jpg"/>
-</p>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
     I'm HAJJARI Mohammed</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student+📊;Data+Analysis+Student+📈;Deep+Learning+📙;Machine+learning+🎰;Natural+Language+Processing+🚧;🐉&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student+📊;Data+Engineering+Student+📈;Deep+Learning+📙;Machine+learning+🎰;Natural+Language+Processing+🚧;🐉&center=true&width=500&height=50"></a>
 </p>
 
 ## 😎 `About me` :
