@@ -39,7 +39,8 @@
                                                                 alt="Heisenberghj9"
                                                                 height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
 </p>
-## 🛠️ `Languages and Tools` :
+
+##🛠️ `Languages and Tools` :
 
 <p align="center">
     <a href="https://angular.io" rel="noreferrer" target="_blank">
