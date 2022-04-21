@@ -70,13 +70,14 @@
         <img alt="scikit_learn" height="40"
              src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
         </a>
-         
         &emsp;
         </p>
     </li>
 </ul>
 <br>
+<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heisenberghj7&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/Heisenberghj7/github-readme-stats)
+</p>
 
 <p align="center">
     <a href="https://angular.io" rel="noreferrer" target="_blank">
