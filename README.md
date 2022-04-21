@@ -20,7 +20,7 @@
 <p>
    
 ![Heisenberghj7's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Heisenberghj7&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heisenberghj7&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/Heisenberghj7/github-readme-stats)
+
 </p>
 <br>
 
@@ -64,14 +64,19 @@
         </a>
         <a href="https://www.mysql.com/" rel="noreferrer" target="_blank">
         <img alt="mysql"
-             height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> </a>
+             height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> 
+        </a>
         <a href="https://scikit-learn.org/" rel="noreferrer" target="_blank">
         <img alt="scikit_learn" height="40"
-             src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> </a>
+             src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+        </a>
+         
         &emsp;
         </p>
     </li>
 </ul>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heisenberghj7&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/Heisenberghj7/github-readme-stats)
 
 <p align="center">
     <a href="https://angular.io" rel="noreferrer" target="_blank">
