@@ -1,10 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
-    I'm HAJJARI Mohammed</h1>
+    I'm Mohammed HAJJARI</h1>
+<h3 align="center">A Data Engineering Student and MAchine Learning Enthusiast!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Heisenberghj7&label=Profile%20views&color=0e75b6&style=flat" alt="Heisenberghj7" /> </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student+📊;Data+Engineering+Student+📈;Deep+Learning+📙;Machine+learning+🎰;Natural+Language+Processing+🚧;🐉&center=true&width=500&height=50"></a>
-</p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Heisenberghj7" alt="Heisenberghj7" /></a> </p>
 ## 😎 `About me` :
 
 - 🔭 I’m currently working on **Predicting House prices**
