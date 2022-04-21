@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 📄 Here is my resume → **[Resume](https://drive.google.com/file/d/1q5I_Vwt3eAnw_4i2kshPnVIneJ3ZilMD/view?usp=sharing)**
+- 📄 Here is my resume → **[Resume](https://drive.google.com/file/d/1-J1ZgnYX5FR61ZKotLWmYhL2yVo-XBta/view?usp=sharing)**
 
 - 📫 How to reach me → **medhajjari7@gmail.com**
 
@@ -70,6 +70,13 @@
         <img alt="scikit_learn" height="40"
              src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
         </a>
+        <a href="https://www.selenium.dev" target="_blank">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+        </a>
+        <a href="https://pandas.pydata.org/" rel="noreferrer" target="_blank">
+        <img alt="pandas"
+             height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/> </a>
+        
         &emsp;
         </p>
     </li>
