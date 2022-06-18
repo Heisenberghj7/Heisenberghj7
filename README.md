@@ -31,7 +31,7 @@
                                                                       alt="hajjarimohammed"
                                                                       height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
     &emsp;
-    <a href="https://www.kaggle.com/medhajjari" target="blank"><img align="center"
+    <a href="https://www.kaggle.com/mohammedhajjari" target="blank"><img align="center"
                                                                  alt="medhajjari"
                                                                  height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40"/></a>
     &emsp;
