@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74627083/155903528-100c07d0-ee13-4ba7-9e98-3584c4ac555b.jpg"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm HAJJARI MOHAMMED</h1>
 
