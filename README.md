@@ -9,9 +9,9 @@
 
 ## 😎 About me:
 
-- 🔭 I’m currently looking for an **Internship in Data Engineering/Science** 😁
+- 🔭 I’m currently looking for an **Internship in Data Engineering/Science** 
 
-- 🌱 I’m currently learning **Data Engineering,Cloud Computing and Software Engineering** 👊
+- 🌱 I’m currently learning **Data Engineering,Cloud Computing and Software Engineering** 
 
 - 📫 Reach me at **Medhajjari9@gmail.com**
 
@@ -45,6 +45,3 @@
 
 <br/>
 <br/>
-<p align="center">
-  <img alt="GitHub contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
-</p>
