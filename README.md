@@ -48,9 +48,9 @@
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
   <img align="left" alt="Heisenberg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Heisenberghj7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Heisenberghj7&" alt="Heisenberghj7" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Heisenberghj7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Heisenberghj7" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heisenberghj7&show_icons=true&locale=en&layout=compact" alt="Heisenberghj7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Heisenberghj7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Heisenberghj7" /></p>
 
 <br/>
 <br/>
