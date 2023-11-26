@@ -26,6 +26,7 @@
 <br>
 
 ## 🎓 Certifications:
+- 💎 [Microsoft Certified: Azure Data Fundamentals: DP-900](https://learn.microsoft.com/en-us/users/mohammedhajjari-3905/credentials/f650514676e051ab)
 - 💎 [Microsoft Certified: Azure Data Engineer Associate: DP-203](https://learn.microsoft.com/en-us/users/mohammedhajjari-3905/credentials/f650514676e051ab)
 
 ## 🙌 Connect with me:
