@@ -13,7 +13,7 @@
 
 ## 😎 About me:
 
-- 🔭 I’m currently preparing for my Upcoming Internship at **Deloitte**
+- 🔭 I’m currently preparing for my upcoming Internship 
 
 - 🌱 I’m currently learning **Generative AI & Devops** 
 
