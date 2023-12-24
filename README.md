@@ -13,13 +13,13 @@
 
 ## 😎 About me:
 
-- 🔭 I’m currently looking for an **Internship in Data Engineering/Science** 
+- 🔭 I’m currently preparing for my Upcoming Internship at **Deloitte**
 
-- 🌱 I’m currently learning **Data Engineering,Cloud Computing and Software Engineering** 
+- 🌱 I’m currently learning **Generative AI & Devops** 
 
-- 📫 Reach me at **Medhajjari9@gmail.com**
+- 📫 Reach me at **medhajjari9@gmail.com**
 
-- 📄 View my Linkedin profil here **[Linkedin ](https://www.linkedin.com/in/mohammedhajjari/)**
+- 📄 View my Linkedin profile here **[Linkedin ](https://www.linkedin.com/in/mohammedhajjari/)**
 
 <h3 align="left">Languages and Tools:</h3>
 
