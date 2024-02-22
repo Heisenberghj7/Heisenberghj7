@@ -13,9 +13,9 @@
 
 ## 😎 About me:
 
-- 🔭 I’m currently preparing for my upcoming Internship 
+- 🔭 I’m a Data Consultant Intern at Deloitte
 
-- 🌱 I’m currently learning **Generative AI & Devops** 
+- 🌱 I’m currently learning **LLMs & Generative AI** 
 
 - 📫 Reach me at **medhajjari9@gmail.com**
 
