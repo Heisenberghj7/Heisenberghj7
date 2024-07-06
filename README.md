@@ -17,15 +17,15 @@
 
 - 🌱 I’m currently learning **LLMs & Generative AI** 
 
-- 📫 Reach me at **medhajjari9@gmail.com**
+- 📫 Reach me at **mhajjari.pro@gmail.com**
 
 - 📄 View my Linkedin profile here **[Linkedin ](https://www.linkedin.com/in/mohammedhajjari/)**
 
 <br>
 
 ## 🎓 Certifications:
-- 💎 [Microsoft Certified: Azure Data Fundamentals: DP-900](https://learn.microsoft.com/en-us/users/mohammedhajjari-3905/credentials/f650514676e051ab)
 - 💎 [Microsoft Certified: Azure Data Engineer Associate: DP-203](https://learn.microsoft.com/en-us/users/mohammedhajjari-3905/credentials/f650514676e051ab)
+- 💎 [Microsoft Certified: AI Engineer Associate: AI-102](https://learn.microsoft.com/en-us/users/mohammedhajjari-1517/credentials/4c97a0e57c488237)
 - 💎 [dbt Fundamentals from dbt Labs](https://www.credential.net/bef56717-cf4e-4423-ae3b-5d80869b19db#gs.4bcgnl)
 
 ## 🙌 Connect with me:
